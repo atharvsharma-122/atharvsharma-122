@@ -1,5 +1,9 @@
 # 💫 About Me:
-I'm Atharv, B.tech CSE 27'' Student. <br>
+👋 Hi, I’m Atharv Sharma  
+🎓 B.Tech CSE | Batch of 2027  
+🔭 Currently learning Data Structures, Java & Data Science  
+🌱 Building projects & sharpening problem-solving skills  
+📌 Aspiring to contribute to impactful tech solutions  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharv-sharma-75161a298/) 
